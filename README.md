@@ -8,18 +8,23 @@ As stated above this is a temporary repository as I have plans for a more thorou
 
 ***This will eventually have "Drop-Down" animation.***
 
+- [Drop Down Mimic - AutoHotkey - Temporary Repo](#drop-down-mimic---autohotkey---temporary-repo)
+  - [Disclaimer](#disclaimer)
+  - [Files](#files)
+  - [Example Script Display](#example-script-display)
+
 ## Files
 
 |File|Description|
 |---:|:---|
 |[drop_down_example.ahk](src/scripts/drop_down_example.ahk)|Example file with e every function, hotkey, and sub needed for the example.|
 
-## Example Script Dsiplay
+## Example Script Display
 
 ```AutoHotkey
 ; ╓───────────────────────────────────────────────────────────────────╖
 ; ║ ☍ This is a "Quick & Dirty" script example of functions and the   ║
-; ║ ☍ method I use with AutoHotkey to mimic the "Drop Down" behavior ║
+; ║ ☍ method I use with AutoHotkey to mimic the "Drop Down" behavior  ║
 ; ║ ☍ of Linux terminals like 'Guake', 'Tilda', and 'Yakuake' for     ║
 ; ║ ☍ 'Windows' windows/guis. This example is set for use with the    ║
 ; ║ ☍ regular 'cmd.exe' executable, but you can use whatever          ║

@@ -8,8 +8,10 @@ As stated above this is a temporary repository as I have plans for a more thorou
 
 ***This will eventually have "Drop-Down" animation.***
 
+## Table of Contents
 - [Drop Down Mimic - AutoHotkey - Temporary Repo](#drop-down-mimic---autohotkey---temporary-repo)
   - [Disclaimer](#disclaimer)
+  - [Table of Contents](#table-of-contents)
   - [Files](#files)
   - [Example Script Display](#example-script-display)
 

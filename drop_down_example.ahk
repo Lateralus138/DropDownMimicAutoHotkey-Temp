@@ -1,6 +1,6 @@
 ; ╓───────────────────────────────────────────────────────────────────╖
 ; ║ ☍ This is a "Quick & Dirty" script example of functions and the   ║
-; ║ ☍ method I use with AutoHotkey to mimic the "Drop Down" behaviour ║
+; ║ ☍ method I use with AutoHotkey to mimic the "Drop Down" behavior  ║
 ; ║ ☍ of Linux terminals like 'Guake', 'Tilda', and 'Yakuake' for     ║
 ; ║ ☍ 'Windows' windows/guis. This example is set for use with the    ║
 ; ║ ☍ regular 'cmd.exe' executable, but you can use whatever          ║

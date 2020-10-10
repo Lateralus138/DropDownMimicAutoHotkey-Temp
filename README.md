@@ -1,6 +1,6 @@
 # Drop Down Mimic - AutoHotkey - Temporary Repo
 
-This is a "Quick & Dirty" script example of functions and the method I use with AutoHotkey to mimic the "Drop Down" behaviour of Linux terminals like '**Guake**', '**Tilda**', and '**Yakuake**' for 'Windows' windows/guis. This example is set for use with the regular 'cmd.exe' executable, but you can use whatever executable you like as long as you know the path and know the window Title, Class, or other identifier as per WinGet().
+This is a "Quick & Dirty" script example of functions and the method I use with AutoHotkey to mimic the "Drop Down" behavior of Linux terminals like '**Guake**', '**Tilda**', and '**Yakuake**' for 'Windows' windows/guis. This example is set for use with the regular 'cmd.exe' executable, but you can use whatever executable you like as long as you know the path and know the window Title, Class, or other identifier as per WinGet().
 
 ## Disclaimer
 
@@ -19,7 +19,7 @@ As stated above this is a temporary repository as I have plans for a more thorou
 ```AutoHotkey
 ; ╓───────────────────────────────────────────────────────────────────╖
 ; ║ ☍ This is a "Quick & Dirty" script example of functions and the   ║
-; ║ ☍ method I use with AutoHotkey to mimic the "Drop Down" behaviour ║
+; ║ ☍ method I use with AutoHotkey to mimic the "Drop Down" behavior ║
 ; ║ ☍ of Linux terminals like 'Guake', 'Tilda', and 'Yakuake' for     ║
 ; ║ ☍ 'Windows' windows/guis. This example is set for use with the    ║
 ; ║ ☍ regular 'cmd.exe' executable, but you can use whatever          ║

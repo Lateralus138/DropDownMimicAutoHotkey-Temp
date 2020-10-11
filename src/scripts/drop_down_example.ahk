@@ -1,22 +1,3 @@
-# Drop Down Mimic - AutoHotkey - Temporary Repo
-
-This is a "Quick & Dirty" script example of functions and the method I use with AutoHotkey to mimic the "Drop Down" behaviour of Linux terminals like '**Guake**', '**Tilda**', and '**Yakuake**' for 'Windows' windows/guis. This example is set for use with the regular 'cmd.exe' executable, but you can use whatever executable you like as long as you know the path and know the window Title, Class, or other identifier as per WinGet().
-
-## Disclaimer
-
-As stated above this is a temporary repository as I have plans for a more thorough and clean script.
-
-***This will eventually have "Drop-Down" animation.***
-
-## Files
-
-|File|Description|
-|---:|:---|
-|[drop_down_example.ahk](src/scripts/drop_down_example.ahk)|Example file with e every function, hotkey, and sub needed for the example.|
-
-## Example Script Dsiplay
-
-```AutoHotkey
 ; ╓───────────────────────────────────────────────────────────────────╖
 ; ║ ☍ This is a "Quick & Dirty" script example of functions and the   ║
 ; ║ ☍ method I use with AutoHotkey to mimic the "Drop Down" behaviour ║
@@ -268,4 +249,3 @@ WinGet(attrib,win*)
 Attach_CMD:
     attachWinToUpperDesktopBySub(A_ThisLabel,"ahk_class ConsoleWindowClass")
 return
-```
